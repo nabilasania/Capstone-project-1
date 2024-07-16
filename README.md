@@ -1,4 +1,5 @@
 # Capstone Project Module 1 (CRUD Program: PT XYZ Employee Data)
+JCDSOL015 - Nabila Saniaputri Trispantia
 This is a simple python project for managing company employee data. Each employee has information such as code, name, division, level, city, and email.
 
 ## Data Description
